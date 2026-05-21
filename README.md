@@ -1,4 +1,4 @@
 # CTF Writeups
-A list of my various CTF writeups.
+A repository of my various CTF writeups.
 
 \- Bleu Strnad
